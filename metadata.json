@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Digital Wallpaper",
+  "description": "An interactive particle video filter that transforms video footage into a fluid, responsive particle system based on brightness and motion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
